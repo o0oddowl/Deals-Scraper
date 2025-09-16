@@ -2,7 +2,6 @@ import time
 import random
 import json
 import sqlite3
-import schedule
 import base64
 import re
 from pathlib import Path
